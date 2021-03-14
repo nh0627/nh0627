@@ -2,9 +2,9 @@
 
 ### I am Nahyeon Lee from South Korea, who is passionated in Web Development👩‍💻
 
-- 🔭 I’m currently working on my personal project, [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
+- 🔭 I’m currently working on my personal project [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
 
-- 🌱 I’m currently learning **Java, JavaScript and React**
+- 🌱 I’m currently learning **Java, Node.js and React**
 
 - 📄 Know about my experiences [here](https://bit.ly/3bKG0gY)
 
