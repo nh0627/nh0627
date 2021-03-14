@@ -1,5 +1,4 @@
 ## Hi, there 👋!
-
 ### I am Nahyeon Lee from South Korea, who is passionated in Web Development👩‍💻
 
 - 🌱 I’m currently learning **Java, Node.js, and React**
