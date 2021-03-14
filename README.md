@@ -2,7 +2,7 @@
 
 ### I am Nahyeon Lee from South Korea, who is passionated in Web Development👩‍💻
 
-- 🔭 I’m currently working on my personal project, <a target="_blank" rel="noopener noreferrer" href="https://my-dear-kukuclara.netlify.app/">My Dear KukuClara</a>
+- 🔭 I’m currently working on my personal project, [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript & React**
 
