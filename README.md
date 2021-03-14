@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Java, Node.js, and React**
 - 🔭 I’m currently working on my personal project [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
 - 📝 I am keeping everyday study records on [TIL(Today I Learn)](https://github.com/nh0627/TIL)
-- 👩‍💻 Know about my experiences [here](https://bit.ly/3bKG0gY) and my projects [here](https://bit.ly/3cssYUF)
+- 👩‍💻 Know about [my experiences](https://bit.ly/3bKG0gY) and [my projects](https://bit.ly/3cssYUF)
 - 📫 How to reach me **naboee0627@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
