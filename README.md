@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my personal project, [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **Java, JavaScript & React**
 
 - 📄 Know about my experiences [here](https://bit.ly/3bKG0gY)
 
