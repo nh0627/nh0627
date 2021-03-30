@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, and React**
 - 🔭 I’m currently working on my personal project [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
-- 📝 I am keeping everyday programming records on [My blog](https://nh0627.github.io)
-- 👩‍💻 Know about my experiences [here](https://bit.ly/3vvtgCB) and my projects [here](https://bit.ly/3lnxoA1)
+- 📝 I am keeping everyday programming records on [my blog](https://nh0627.github.io)
+- 👩‍💻 Know about [my experiences](https://bit.ly/3vvtgCB) and [my projects](https://bit.ly/3lnxoA1)
 - 📫 How to reach me **naboee0627@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
