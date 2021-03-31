@@ -2,7 +2,7 @@
 ### I am Nahyeon Lee from South Korea, who is passionated in Web Development👩‍💻
 
 - 🌱 I’m currently learning **Java, JavaScript, and React**
-- 🔭 I’m currently working on my personal project [My Dear KukuClara](https://my-dear-kukuclara.netlify.app/)
+- 🔭 I’m currently working on my personal project [My Dear KukuClara](https://github.com/nh0627/kukuclara-collection)
 - 📝 I am keeping everyday programming records on [my blog](https://nh0627.github.io)
 - 👩‍💻 Know about [my experiences](https://bit.ly/3vvtgCB) and [my projects](https://bit.ly/3lnxoA1)
 - 📫 Reach me via email **naboee0627@gmail.com**
